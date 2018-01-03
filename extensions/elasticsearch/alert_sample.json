@@ -71,18 +71,7 @@
       "tittle":"sample",
       "assurance":"sample",
       "event":"sample",
-      "days":"sample",
-      "affected_packages_info": {
-        "sample":{
-            "new_version":"sample",
-            "repository":"sample",
-            "version":"sample",
-            "release":"sample",
-            "fixable":"sample",
-            "new_release":"sample",
-            "arch":"sample"
-        }
-      }
+      "days":"sample"
     }
   },
   "rule": {
